@@ -1,0 +1,6 @@
+{
+  "name": "طلبات شي إن",
+  "description": "تطبيق وسيط التسوق والمساعدة في تجميع وإرسال طلبات شي إن عبر الواتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
